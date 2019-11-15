@@ -1,0 +1,6 @@
+C:\Users\c-cor\source\repos\Acme Accounting Systems\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\c-cor\source\repos\Acme Accounting Systems\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\c-cor\source\repos\Acme Accounting Systems\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\c-cor\source\repos\Acme Accounting Systems\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\c-cor\source\repos\Acme Accounting Systems\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\c-cor\source\repos\Acme Accounting Systems\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
