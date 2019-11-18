@@ -1,0 +1,6 @@
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\MathAndComparisonOperatorsPage66\MathAndComparisonOperatorsPage66\bin\Debug\MathAndComparisonOperatorsPage66.exe.config
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\MathAndComparisonOperatorsPage66\MathAndComparisonOperatorsPage66\bin\Debug\MathAndComparisonOperatorsPage66.exe
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\MathAndComparisonOperatorsPage66\MathAndComparisonOperatorsPage66\bin\Debug\MathAndComparisonOperatorsPage66.pdb
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\MathAndComparisonOperatorsPage66\MathAndComparisonOperatorsPage66\obj\Debug\MathAndComparisonOperatorsPage66.csprojAssemblyReference.cache
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\MathAndComparisonOperatorsPage66\MathAndComparisonOperatorsPage66\obj\Debug\MathAndComparisonOperatorsPage66.exe
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\MathAndComparisonOperatorsPage66\MathAndComparisonOperatorsPage66\obj\Debug\MathAndComparisonOperatorsPage66.pdb
