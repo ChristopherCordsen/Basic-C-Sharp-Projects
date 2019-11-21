@@ -1,0 +1,6 @@
+C:\Users\c-cor\source\repos\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\Anonymous Income Comparison Program.exe.config
+C:\Users\c-cor\source\repos\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\Anonymous Income Comparison Program.exe
+C:\Users\c-cor\source\repos\Anonymous Income Comparison Program\Anonymous Income Comparison Program\bin\Debug\Anonymous Income Comparison Program.pdb
+C:\Users\c-cor\source\repos\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\Anonymous Income Comparison Program.csprojAssemblyReference.cache
+C:\Users\c-cor\source\repos\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\Anonymous Income Comparison Program.exe
+C:\Users\c-cor\source\repos\Anonymous Income Comparison Program\Anonymous Income Comparison Program\obj\Debug\Anonymous Income Comparison Program.pdb

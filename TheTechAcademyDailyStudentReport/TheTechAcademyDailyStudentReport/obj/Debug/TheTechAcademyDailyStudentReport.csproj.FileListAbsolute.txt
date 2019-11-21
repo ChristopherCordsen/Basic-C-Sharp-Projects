@@ -4,3 +4,6 @@ C:\Users\c-cor\source\repos\TheTechAcademyDailyStudentReport\TheTechAcademyDaily
 C:\Users\c-cor\source\repos\TheTechAcademyDailyStudentReport\TheTechAcademyDailyStudentReport\obj\Debug\TheTechAcademyDailyStudentReport.exe
 C:\Users\c-cor\source\repos\TheTechAcademyDailyStudentReport\TheTechAcademyDailyStudentReport\obj\Debug\TheTechAcademyDailyStudentReport.pdb
 C:\Users\c-cor\source\repos\TheTechAcademyDailyStudentReport\TheTechAcademyDailyStudentReport\obj\Debug\TheTechAcademyDailyStudentReport.csprojAssemblyReference.cache
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\TheTechAcademyDailyStudentReport\TheTechAcademyDailyStudentReport\obj\Debug\TheTechAcademyDailyStudentReport.csprojAssemblyReference.cache
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\TheTechAcademyDailyStudentReport\TheTechAcademyDailyStudentReport\obj\Debug\TheTechAcademyDailyStudentReport.exe
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\TheTechAcademyDailyStudentReport\TheTechAcademyDailyStudentReport\obj\Debug\TheTechAcademyDailyStudentReport.pdb

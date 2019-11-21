@@ -1,0 +1,6 @@
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).exe.config
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).exe
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).pdb
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).exe
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).pdb
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).csprojAssemblyReference.cache
