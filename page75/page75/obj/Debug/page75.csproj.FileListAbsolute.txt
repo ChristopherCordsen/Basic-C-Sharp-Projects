@@ -1,0 +1,6 @@
+C:\Users\c-cor\source\repos\page75\page75\obj\Debug\page75.csprojAssemblyReference.cache
+C:\Users\c-cor\source\repos\page75\page75\bin\Debug\page75.exe.config
+C:\Users\c-cor\source\repos\page75\page75\bin\Debug\page75.exe
+C:\Users\c-cor\source\repos\page75\page75\bin\Debug\page75.pdb
+C:\Users\c-cor\source\repos\page75\page75\obj\Debug\page75.exe
+C:\Users\c-cor\source\repos\page75\page75\obj\Debug\page75.pdb
