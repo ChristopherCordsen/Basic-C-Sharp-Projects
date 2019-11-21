@@ -1,0 +1,6 @@
+C:\Users\c-cor\source\repos\Bool\Bool\bin\Debug\Bool.exe.config
+C:\Users\c-cor\source\repos\Bool\Bool\bin\Debug\Bool.exe
+C:\Users\c-cor\source\repos\Bool\Bool\bin\Debug\Bool.pdb
+C:\Users\c-cor\source\repos\Bool\Bool\obj\Debug\Bool.csprojAssemblyReference.cache
+C:\Users\c-cor\source\repos\Bool\Bool\obj\Debug\Bool.exe
+C:\Users\c-cor\source\repos\Bool\Bool\obj\Debug\Bool.pdb
